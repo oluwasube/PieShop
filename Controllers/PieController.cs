@@ -16,7 +16,7 @@ namespace Pieshop.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        public ViewResult List()
+        public ViewResult index()
         {
             PieListViewModel pieListViewModel = new PieListViewModel();
             pieListViewModel.Pies = _pieRepository.AllPies;

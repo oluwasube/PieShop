@@ -27,7 +27,7 @@ using Pieshop.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f97115fb4adf6756eaa874c43a302d723bb9dcd4", @"/Views/Pies/List.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"282dd581cba58c8587a40687b84827e84676ae2f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fd61a45f05c33a61622db4514cb239d952e9ad3b", @"/Views/_ViewImports.cshtml")]
     public class Views_Pies_List : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<PieShop.ViewModels.PieListViewModel>
     {
         #pragma warning disable 1998
